@@ -64,6 +64,10 @@ body {
         margin-top: 3rem;
         align-items: center;
 
+        &:first-child {
+            margin-top: 0;
+        }
+
         section {
           margin-left: 3rem;
         }
